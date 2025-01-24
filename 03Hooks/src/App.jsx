@@ -23,13 +23,12 @@ function App() {
 
   function addValue(){
     
-    setCounter(counter + 1);
+    if(counter < 20) setCounter(counter + 1);
     
- 
   }
   function removeValue(){
     
-    setCounter(counter - 1);
+    if(counter > 0)setCounter(counter - 1);
   }
 
 
