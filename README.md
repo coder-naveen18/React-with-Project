@@ -6,10 +6,6 @@
 - Supports a declarative approach to designing UI components.
 - Ensures better application control with one-way data binding.
 
-
-#
-![preview](https://media.geeksforgeeks.org/wp-content/uploads/20250128163105949839/Browser-DOM-Virtual-DOM.webp)
-
 ## Why learn React?
 - Makes easy to manage & build complex front-end
 
