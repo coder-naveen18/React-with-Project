@@ -16,4 +16,4 @@
 ## Why react was build ?
 - fantom message problem(Ghost problem) in facebook app/web ----> where messages numbers are seen inspite of we have read all the message.
 
-- In this problem the (State --- JS)  and (UI ---> DOM) are not able to interact with each other.
+- In this problem the (State ---> JS) and (UI ---> DOM) are not able to interact with each other.
