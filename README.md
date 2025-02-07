@@ -8,7 +8,7 @@
 
 
 #
-[preview](https://media.geeksforgeeks.org/wp-content/uploads/20250128163105949839/Browser-DOM-Virtual-DOM.webp)
+![preview](https://media.geeksforgeeks.org/wp-content/uploads/20250128163105949839/Browser-DOM-Virtual-DOM.webp)
 
 ## Why learn React?
 - Makes easy to manage & build complex front-end
