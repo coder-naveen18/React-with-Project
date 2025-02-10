@@ -7,6 +7,7 @@ function App() {
   const [specialChar , setSpecialChar] = useState(false)
   const [password, setPassword] = useState("")
 
+
   // useRef hook --->
   const passwordRef = useRef(null)
 
